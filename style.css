@@ -436,7 +436,7 @@ div#accordionExample {
 }
 .introduction{
     padding: 80px;
-    background: url(../img/about-one-bg-img-1.jpg);
+    background: url(about-one-bg-img-1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
